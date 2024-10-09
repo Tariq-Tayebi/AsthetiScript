@@ -64,6 +64,11 @@ def web(self):
     app.run()
     quit()
 
+
+def array(size):
+    return [''] * size
+
+
 def conditional(condition, true, false): #assing to variable
     return {True: true, False: false}[condition]
 
