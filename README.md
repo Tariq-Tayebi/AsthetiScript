@@ -5,9 +5,13 @@ The AsthetiScript Programming Language is a compiled, Python and C based program
 
 ## Quick Facts
 >Year Created: 2024
+
 >Where was it created: Sydney, Australia
+
 >Compiled or Interpreted: Compilied by an interpreter!
+
 >Standard Library: asc>...
+
 >File Extension: .asth
 
 ## Examples
