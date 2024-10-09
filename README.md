@@ -40,7 +40,9 @@ we don't use asc>... as it is not in the standard library, but a key functionali
 
 Else if statement:
 ```
-elshould
+elshould (condition) $
+ excecute
+```
 
 We also have a conditional operator (sometimes called the ternary operator in other languages):
 ```
