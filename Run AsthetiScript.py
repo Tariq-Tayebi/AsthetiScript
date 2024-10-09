@@ -35,7 +35,7 @@ def preprocess_code(code):
     # Replace // with #
     code = code.replace('!', '#')
     code = code.replace('>', '.')
-    code = code.replace('using', 'import')
+    code = code.replace('@using', 'import')
     code = code.replace('should', 'if')
     code = code.replace('var', 'f')
     code = code.replace('std', 'AsthetiScript')
