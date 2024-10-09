@@ -16,7 +16,7 @@ The AsthetiScript Programming Language is a compiled, programming language with 
 
 ## Tutorial and Syntax
 
-In AsthetiScript, a '>' symbol denotes parenthood and childhood, compared to a '.' in Python. AsthetiScript uses an '@' symbol to include libraries, including the standard library. At the start of every code, you must type ```@using std - asc```. 
+In AsthetiScript, a '>' symbol denotes parenthood and childhood, compared to a '.' in Python. AsthetiScript uses an '@' symbol to include libraries, including the standard library. At the start of every code, you must type ```@using std : asc```. 
 ### Text
 AsthetiScript has very high text functionality. To do plain text, type ```asc>text>plain("Text")``` for plain text or ```asc>text("Text")``` for text with the same style. There are many ways to format in console.
 For example:
