@@ -31,9 +31,11 @@ The class text contains all text functionality.
 ### If statements
 AsthetiScript has a simple if statement syntax, the should method:
 ```
-should (1 > 0):
+should (1 > 0) $
  asc>text("HI")
 ```
+A ```$``` is used to show an if statement, instead of a {} or : in other languages.
+
 we don't use asc>... as it is not in the standard library, but a key functionality.
 
 We also have a conditional operator (sometimes called the ternary operator in other languages):
@@ -42,4 +44,27 @@ x = conditional(1 > 0, true="true", "false")
 ```
 you can take out the true= and false=, it is optional if you can't remember the side which is true or false.
 
+### Variables
+There are ints, floats, doubles, strings, and arrays in AsthetiScript.
 
+You do not need to declare variable types.
+
+Int:
+```
+var = 0
+```
+
+String:
+```
+var = "Sring"
+```
+
+Floats and Doubles:
+```
+var = 1.0
+```
+
+Array:
+var = asc>array(4)
+
+This creates an array with a length of 4.
