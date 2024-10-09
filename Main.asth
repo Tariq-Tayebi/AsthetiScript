@@ -1,3 +1,5 @@
-text("Hello World")
+using std - asc
+
+asc>text("Hello World")
 
 !Type your code here
