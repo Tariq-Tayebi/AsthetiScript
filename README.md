@@ -1,7 +1,7 @@
 # The AsthetiScript Programming Language
 
 ## What Is It
-The AsthetiScript Programming Language is a compiled, Python and C based programming language. Apart from having features from many universal languages, AstheiScript also combines its versatile, easy to understand syntax with features not in many programming languages. For example, AsthetiScript can make web applications accompanying or ovetaking HTML and CSS, while performing advanced calculations and speed usually reserved for C and C++.
+The AsthetiScript Programming Language is a compiled, Python and C based programming language. Apart from containing many native features from many universal languages, AsthetiScript also combines its versatile, easy to understand syntax with attributes not in many programming languages. For example, AsthetiScript can make web applications accompanying or ovetaking HTML and CSS, while performing advanced calculations with speed usually reserved for C and C++.
 
 ## Quick Facts
 >Year Created: 2024
