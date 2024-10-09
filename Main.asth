@@ -2,7 +2,7 @@
 ! Copyright Tariq Tayebi
 !
 ! Welcome to the first version of the 
-! AsthetiScript programming language
+! AsthetiScript programming language: 2024
 !
 ! Type code below to run, then run with 
 ! the 'Run AsthetiScript' file
@@ -11,20 +11,29 @@
 
 !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ! Examples:
-!
+! 
 ! If statement:
 !
 ! -> should (1 == 1):
 ! ->  asc>textC("1 equals 1")
+! 
+! Formatted text:
 !
-! Type code below to run, then run with 
-! the 'Run AsthetiScript' file
+! -> asc>text>red("This is red")
+! -> asc>text>customcode("Text", 30)
+!
+! Variable Conditioning:
+! -> x = conditional(1 < 2, "true", "false") 
+!
+! Simple Web App:
+! -> asc>web("<p>Hello World</p>
 !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
+!Type your code here
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 using std - asc
 
 asc>text("Hello World")
 
-!Type your code here
 
