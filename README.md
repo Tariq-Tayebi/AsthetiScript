@@ -36,4 +36,10 @@ should (1 > 0):
 ```
 we don't use asc>... as it is not in the standard library, but a key functionality.
 
+We also have a conditional operator (sometimes called the ternary operator in other languages):
+```
+x = conditional(1 > 0, true="true", "false")
+```
+you can take out the true= and false=, it is optional if you can't remember the side which is true or false.
+
 
