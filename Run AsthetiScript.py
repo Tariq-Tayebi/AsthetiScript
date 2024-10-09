@@ -29,7 +29,8 @@ Run your code with this file (open in Command Prompt or press the run button)
 
 '''
 
-import os
+username = input("Enter your username: For example, if path is C://Users//monid, username is monid > ")
+
 def preprocess_code(code):
     # Replace // with #
     code = code.replace('!', '#')
@@ -54,7 +55,7 @@ def execute_external_file(file_path):
     exec(preprocessed_code)
 
 # Path to the external Python file
-external_file_path = 'test.ast' #change your file here
+external_file_path = f'C:\\Users\\{username}\\Downloads\\Main.asth' #change your file here
 while True:
     asin = input("\033[38;5;202m" + "/Asthetiscript > " + '\033[0;0m')
 
