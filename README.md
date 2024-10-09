@@ -30,8 +30,9 @@ The class text contains all text functionality.
 
 ### If statements
 AsthetiScript has a simple if statement syntax, the should method:
-```should (1 > 0):
-    asc>text("HI")
+```
+should (1 > 0):
+ asc>text("HI")
 ```
 we don't use asc>... as it is not in the standard library, but a key functionality.
 
