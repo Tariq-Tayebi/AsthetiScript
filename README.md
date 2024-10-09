@@ -38,6 +38,10 @@ A ```$``` is used to show an if statement, instead of a {} or : in other languag
 
 we don't use asc>... as it is not in the standard library, but a key functionality.
 
+Else if statement:
+```
+elshould
+
 We also have a conditional operator (sometimes called the ternary operator in other languages):
 ```
 x = conditional(1 > 0, true="true", "false")
@@ -65,6 +69,7 @@ var = 1.0
 ```
 
 Array:
+```
 var = asc>array(4)
-
+```
 This creates an array with a length of 4.
