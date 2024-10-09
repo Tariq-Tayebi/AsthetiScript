@@ -64,7 +64,7 @@ def web(self):
     app.run()
     quit()
 
-def conditional(condition, true, false): #not working
+def conditional(condition, true, false): #assing to variable
     return {True: true, False: false}[condition]
 
 
