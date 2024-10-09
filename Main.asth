@@ -26,13 +26,14 @@
 ! -> x = conditional(1 < 2, "true", "false") 
 !
 ! Simple Web App:
-! -> asc>web("<p>Hello World</p>
+! -> asc>web("<p>Hello World</p>")
 !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 !Type your code here
 !~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-using std - asc
+
+@using std : asc
 
 asc>text("Hello World")
 
