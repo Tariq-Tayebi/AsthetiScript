@@ -1,5 +1,30 @@
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+! Copyright Tariq Tayebi
+!
+! Welcome to the first version of the 
+! AsthetiScript programming language
+!
+! Type code below to run, then run with 
+! the 'Run AsthetiScript' file
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+! Examples:
+!
+! If statement:
+!
+! -> should (1 == 1):
+! ->  asc>textC("1 equals 1")
+!
+! Type code below to run, then run with 
+! the 'Run AsthetiScript' file
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 using std - asc
 
 asc>text("Hello World")
 
 !Type your code here
+
