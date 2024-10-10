@@ -4,7 +4,7 @@ d# The AsthetiScript Programming Language
 The AsthetiScript Programming Language is a compiled, programming language with syntax similar to Python and C/C++. Apart from containing many native features from many universal languages, AsthetiScript also combines its versatile, easy to understand syntax with attributes not in many programming languages. For example, AsthetiScript can make web applications accompanying or overtaking HTML and CSS, while performing advanced calculations with speed usually reserved for C and C++.
 
 ### Download AsthetiScript Here:
-(https://github.com/Tariq-Tayebi/Download-AsthetiScript) [Download the AsthetiScript programming language]
+[Download the AsthetiScript programming language](https://github.com/Tariq-Tayebi/Download-AsthetiScript)
 
 ## Quick Facts
 >Year Created: 2024
